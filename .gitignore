@@ -2,6 +2,7 @@
 venv/
 .venv/
 env/
+mineria/
 
 # Cachés de Python
 __pycache__/
