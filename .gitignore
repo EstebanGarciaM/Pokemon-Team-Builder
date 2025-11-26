@@ -15,7 +15,6 @@ __pycache__/
 
 # Archivos grandes o temporales
 *.png
-*.jpg
 *.jpeg
 *.csv
 *.xlsx
